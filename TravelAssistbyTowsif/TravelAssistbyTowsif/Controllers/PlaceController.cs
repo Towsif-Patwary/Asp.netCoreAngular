@@ -152,6 +152,26 @@ namespace TravelAssistbyTowsif.Controllers
             return placeModel;
         }
 
+
+              /**  Create Procedure spGetPlacesByUserId
+        @Id int
+        as
+        Begin
+         Select * from Places
+         Where Preferences Like '%'(Select Preference from [TravelAssistDB].[dbo].[AspNetUsers] Where Id = 1)'%'
+        End
+
+
+        Create Procedure spGetCommentsByPlaceId
+        @Id int
+        as
+        Begin
+         Select * from [TravelAssistDB].[dbo].[Comments]
+         Where PlaceId = @Id
+        End
+              */
+
+
         // GET: api/Place/5
         [HttpGet("{id}")]
         [Route("GetPlaceComments")]
@@ -174,6 +194,73 @@ namespace TravelAssistbyTowsif.Controllers
 
         //    return _context.Places.Where(x => x.Preferences.Contains(prefer.ToString()));
         //}
+
+
+        /*
+         * SELECT Preferences FROM [TravelAssistDB].[dbo].[Places] WHERE Preferences LIKE '%HILL%'
+
+
+Create Procedure spGetPreferenceByUserId
+@Id int
+as
+Begin
+ Select Preference from [TravelAssistDB].[dbo].[AspNetUsers] Where Id = @Id
+End
+
+
+Create Procedure spGetPlacesByUserPreference
+@Preference varchar
+as
+Begin
+	declare @pr2 varchar(100)
+	set @pr2 =  '%' + @Preference + '%'
+ Select * from [TravelAssistDB].[dbo].[Places] Where Preferences Like @pr2
+End
+
+
+
+
+
+Create Procedure spGetPlacesByNotUserPreference
+@Preference varchar
+as
+Begin
+	declare @pr2 varchar(100)
+	set @pr2 =  '%' + @Preference + '%'
+ Select * from [TravelAssistDB].[dbo].[Places] Where Preferences NOT LIKE @pr2
+End
+
+
+
+
+
+
+Create Procedure spGetPlacesByUserPreference
+@Preference varchar
+as
+Begin
+ Select * from [TravelAssistDB].[dbo].[Places] Where Preferences Like '%' + @Preference + '%'
+End
+
+
+Create Procedure spGetPlacesByNotUserPreference
+@Preference varchar
+as
+Begin
+ Select * from [TravelAssistDB].[dbo].[Places] Where Preferences NOT LIKE '%' + @Preference + '%'
+End
+
+
+EXEC [dbo].[spGetCommentsByPlaceId] @Id = 1
+EXEC [dbo].[spGetPlacesByNotUserPreference] @Preference = 'Hill'
+EXEC [dbo].[spGetPlacesByUserPreference] @Preference = 'Hill'
+EXEC [dbo].[spGetPreferenceByUserId]  @Id = 1
+         * 
+         */
+
+
+
+
 
         private bool PlaceModelExists(int id)
         {
