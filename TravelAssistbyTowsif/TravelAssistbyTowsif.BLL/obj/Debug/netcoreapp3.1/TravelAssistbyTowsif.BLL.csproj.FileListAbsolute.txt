@@ -1,0 +1,14 @@
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.deps.json
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.pdb
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.DAL.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.DAL.pdb
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.pdb
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.csprojAssemblyReference.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.AssemblyInfoInputs.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.AssemblyInfo.cs
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.csproj.CoreCompileInputs.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.csproj.CopyComplete
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.BLL\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.BLL.pdb

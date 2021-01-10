@@ -1,0 +1,12 @@
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.deps.json
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.runtimeconfig.json
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.runtimeconfig.dev.json
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\bin\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.pdb
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.csprojAssemblyReference.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.AssemblyInfoInputs.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.AssemblyInfo.cs
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.dll
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.pdb
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.genruntimeconfig.cache
+E:\Projects\Tourist Guide\ProjectTravelAssist\TravelAssistbyTowsif\TravelAssistbyTowsif.Entity\obj\Debug\netcoreapp3.1\TravelAssistbyTowsif.Entity.csproj.CoreCompileInputs.cache

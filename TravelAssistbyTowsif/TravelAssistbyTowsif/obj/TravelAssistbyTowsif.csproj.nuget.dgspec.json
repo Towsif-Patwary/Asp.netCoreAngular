@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif\\TravelAssistbyTowsif.csproj": {}
+  },
+  "projects": {
+    "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\TravelAssistbyTowsif.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\TravelAssistbyTowsif.BLL.csproj",
+        "projectName": "TravelAssistbyTowsif.BLL",
+        "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\TravelAssistbyTowsif.BLL.csproj",
+        "packagesPath": "C:\\Users\\Shuvo Mts\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shuvo Mts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj"
+              },
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj",
+        "projectName": "TravelAssistbyTowsif.DAL",
+        "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj",
+        "packagesPath": "C:\\Users\\Shuvo Mts\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shuvo Mts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj",
+        "projectName": "TravelAssistbyTowsif.Entity",
+        "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj",
+        "packagesPath": "C:\\Users\\Shuvo Mts\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shuvo Mts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif\\TravelAssistbyTowsif.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif\\TravelAssistbyTowsif.csproj",
+        "projectName": "TravelAssistbyTowsif",
+        "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif\\TravelAssistbyTowsif.csproj",
+        "packagesPath": "C:\\Users\\Shuvo Mts\\.nuget\\packages\\",
+        "outputPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Shuvo Mts\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://www.nuget.org/api/v2/": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\TravelAssistbyTowsif.BLL.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.BLL\\TravelAssistbyTowsif.BLL.csproj"
+              },
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.DAL\\TravelAssistbyTowsif.DAL.csproj"
+              },
+              "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj": {
+                "projectPath": "E:\\Projects\\Tourist Guide\\ProjectTravelAssist\\TravelAssistbyTowsif\\TravelAssistbyTowsif.Entity\\TravelAssistbyTowsif.Entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Microsoft.Net.Compilers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
